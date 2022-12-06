@@ -1,5 +1,5 @@
 
-import dayfor as d
+import daytree as d
 
 def test_base():
     """
